@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversor Temperatura</string>
+    <string name="edt_temperatura_ºC">Introduce grados ºC</string>
+    <string name="btn_convertir">Convertir</string>
+    <string name="edt_temperatura_kelvin">Grados ºK</string>
+    <string name="edt_temperatura_farenheit">Grados ºF</string>
+</resources>
